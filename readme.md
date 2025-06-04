@@ -27,6 +27,11 @@ A proposta deste projeto é simular uma landing page de alta conversão como se 
 
 ## 📂 Estrutura de Pastas
 
+ nextdev-landing-page
+├── index.html
+├── styles.css
+└── README.md
+
 ---
 
 ## 📌 Funcionalidades
@@ -41,7 +46,6 @@ A proposta deste projeto é simular uma landing page de alta conversão como se 
 ## 🌐 Acessar Projeto Online
 
 📎 [🔗 Ver página publicada (GitHub Pages)](https://davimb.github.io/nextdev.github.io/) 
-> (Troca esse link com o teu depois que publicar)
 
 ---
 
@@ -54,7 +58,7 @@ A marca **NextDev** e o conteúdo do curso são inventados e **não representam 
 
 ## 🤝 Contato
 
-Se quiser entrar em contacto ou ver mais projetos:
+Se quiser entrar em contato ou ver mais projetos:
 
 - GitHub: [@davimb](https://github.com/davimb)
 - Email: davimoreiradobem@hotmail.com
